@@ -1,0 +1,32 @@
+# Build artifacts
+build/
+dist/
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE/editor
+*.user
+*.suo
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Installer output
+*.msi
+*.pkg
+*.deb
+*.dmg

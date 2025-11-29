@@ -1,0 +1,6 @@
+[submodule "external/vst3sdk"]
+	path = external/vst3sdk
+	url = https://github.com/steinbergmedia/vst3sdk.git
+[submodule "external/rvc-webui"]
+	path = external/rvc-webui
+	url = https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git
